@@ -179,3 +179,5 @@ services
 docker-compose.yaml
 Dockerfile
 pipeine.py
+terraform/keys.json
+terraform/keys/keys.json
