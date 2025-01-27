@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+ny_taxi_postgres_data
+taxi_zone_lookup.csv
+green_tripdata_2019-10.csv.gz
+Untitled.ipynb
+output.txt
+execute_queries.py
+services
+docker-compose.yaml
+Dockerfile
+pipeine.py
